@@ -9,3 +9,4 @@ Set up sender and receiver -> set up messages -> set up MIME -> create body and 
     <li>2. Upload docker image to container registry</li>
     <li>3. Deploy</li>
 </ul>
+# email-notif
