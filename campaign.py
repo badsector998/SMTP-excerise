@@ -6,7 +6,7 @@ from sib_api_v3_sdk.rest import ApiException
 from pprint import pprint
 
 configuration = sib_api_v3_sdk.Configuration()
-configuration.api_key['api-key'] = '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'
+configuration.api_key['api-key'] = '-'
 
 api_instance = sib_api_v3_sdk.EmailCampaignsApi(sib_api_v3_sdk.ApiClient(configuration))
 tag = 'Notifcation'

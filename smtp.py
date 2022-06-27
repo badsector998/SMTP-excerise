@@ -9,7 +9,7 @@ from email.mime.text import MIMEText
 #setup sender and receiver
 print("setup sender and receiver")
 sender_email = 'aprilito.ikr@gmail.com'
-sender_pass = 'g0tzIOaf8BRDGPnQ'
+sender_pass = '-'
 receiver_address = "harddiskkosong@gmail.com"
 
 #setup messages
